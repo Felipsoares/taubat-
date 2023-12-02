@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ponto Turístico em Taubaté</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ponto Turístico em Taubaté</h1>
+    </header>
+
+    <main>
+       <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMUExYUExQWGBYYGRkaGRoaGhwcFhkZGhkaHBsaGhoaHysiGhwoHRgaJDQjKCwuMTExGSE3PDcwOyswMS4BCwsLDw4PHRERHTAoIik2LjMwMjAwMDAwMjIwMDA5MDIwMDAwMDAwMDAwMDIuMDAwMjIwMDAwMDAwMDAwMDAwMP/AABEIALcBEwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBAYBB//EAEcQAAIBAgQDBgMECAIJAwUAAAECEQADBBIhMQVBUQYTImFxgTKRoUKxwfAHFCNSYpLR4RVyJDNDgqKys8LxY5PSFjRUZKP/xAAaAQACAwEBAAAAAAAAAAAAAAADBAECBQAG/8QAMBEAAgI
+
+        <h2>Praça santa terezinha</h2>
+       <p>praça pública</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Ponto Turístico em Taubaté. Todos os direitos reservados.</p>
